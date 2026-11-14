@@ -2,7 +2,7 @@
 
 I'm in a 12-month, full-time Startup Leadership and Entrepreneurship program at Mesa School of Business, Bangalore, learning first-principles thinking across marketing, sales, finance, product and AI.
 
-Since joining Mesa, I've built 11 projects. I match AI models to different jobs, check their output before it's used, and turn business rules into working logic, like removing duplicates and requiring approval before anything is sent. The projects are backed by more than 1,600 automated checks.
+Since joining Mesa, I've built 11 projects. I match AI models to different jobs, check their output before it's used, and turn business rules into working logic, like removing duplicates and requiring approval before anything is sent. The projects are backed by more than 1,300 automated checks.
 
 Before Mesa, I spent six years in market research and strategic insights. I'm looking for an AI Product Manager or Founder's Office role. If you're building a team, I'd be glad to connect.
 
